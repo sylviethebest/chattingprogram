@@ -1,0 +1,10 @@
+C:\Users\Songyi\Desktop\chatting\chattingServer\bin\Debug\chattingServer.exe.config
+C:\Users\Songyi\Desktop\chatting\chattingServer\bin\Debug\chattingServer.exe
+C:\Users\Songyi\Desktop\chatting\chattingServer\bin\Debug\chattingServer.pdb
+C:\Users\Songyi\Desktop\chatting\chattingServer\obj\Debug\chattingServer.csprojAssemblyReference.cache
+C:\Users\Songyi\Desktop\chatting\chattingServer\obj\Debug\chattingServer.Form1.resources
+C:\Users\Songyi\Desktop\chatting\chattingServer\obj\Debug\chattingServer.Properties.Resources.resources
+C:\Users\Songyi\Desktop\chatting\chattingServer\obj\Debug\chattingServer.csproj.GenerateResource.cache
+C:\Users\Songyi\Desktop\chatting\chattingServer\obj\Debug\chattingServer.csproj.CoreCompileInputs.cache
+C:\Users\Songyi\Desktop\chatting\chattingServer\obj\Debug\chattingServer.exe
+C:\Users\Songyi\Desktop\chatting\chattingServer\obj\Debug\chattingServer.pdb
